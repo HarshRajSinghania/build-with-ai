@@ -1,1 +1,1 @@
-PLACEHOLDER
+$(cat /workspace/artifacts/e2e_content.txt)
