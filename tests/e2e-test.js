@@ -1,1 +1,2 @@
-$(cat /workspace/artifacts/e2e_content.txt)
+const { spawn, execSync, execFileSync } = require('child_process');
+const f
